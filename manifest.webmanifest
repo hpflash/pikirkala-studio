@@ -1,0 +1,11 @@
+{
+  "name": "PIKIRKALA STUDIO",
+  "short_name": "Pikirkala",
+  "description": "Workspace produksi visual dokumenter Pikirkala",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fa",
+  "theme_color": "#101b2a",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
