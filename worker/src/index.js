@@ -1,6 +1,6 @@
-
 const HEADERS = {
   "content-type": "application/json; charset=utf-8"
+};
 
 
 function json(data, status = 200, extra = {}) {
